@@ -14,8 +14,8 @@ public class Class_p
 }
 class Add
 {
-    private int a;
-	int b=20;
+     int a=10;
+	int b=a;
  String str = "hyderabad";
  public static void Naresh()
 {
